@@ -1,0 +1,30 @@
+# 💱 Currency Converter Web App
+
+A simple and elegant **Currency Converter Web Application** that converts one currency to another using **real-time exchange rates** fetched from a public API.  
+Built using **HTML, CSS, and JavaScript** with a clean and modern UI.
+
+---
+
+## 🚀 Features
+
+- 🌍 Supports multiple international currencies  
+- 🔄 Real-time exchange rate conversion  
+- 🇺🇳 Dynamic country flags for selected currencies  
+- 🎨 Modern and responsive UI  
+- ⚡ Fast and lightweight (no frameworks used)  
+- ❌ Proper error handling for failed API requests  
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure of the web page  
+- **CSS3** – Styling and layout (modern card UI)  
+- **JavaScript (ES6)** – Logic, API calls, DOM manipulation  
+- **Currency API** – Real-time exchange rates  
+- **Flags API** – Country flag images  
+
+---
+
+## 📂 Project Structure
+
