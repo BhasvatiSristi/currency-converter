@@ -3,8 +3,6 @@
 A simple and elegant **Currency Converter Web Application** that converts one currency to another using **real-time exchange rates** fetched from a public API.  
 Built using **HTML, CSS, and JavaScript** with a clean and modern UI.
 
----
-
 ## 🚀 Features
 
 - 🌍 Supports multiple international currencies  
